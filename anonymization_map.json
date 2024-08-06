@@ -1,40 +1,127 @@
 {
     "DATE_TIME": {
-        "1986-10-16": "October 19, 2021"
-    },
-    "PERSON": {
-        "Timothy Koch": "John Doe",
-        "Cristian Santos": "Victoria Cherry"
+        "1985-01-06": "1992",
+        "1972-05-14": "annual",
+        "1989-12-22": "10019-7316",
+        "2015-04-27": "1a(18",
+        "1986-05-02": "each day",
+        "2021-08-10": "that day",
+        "1999-11-05": "overnight",
+        "1995-05-28": "11:00 a.m.",
+        "2004-10-30": "5:00 p.m.",
+        "2001-11-03": "2:00 p.m.",
+        "2011-07-08": "1986",
+        "1974-12-08": "2(d",
+        "1985-09-09": "2015",
+        "1982-10-26": "November 2, 2015",
+        "1999-07-16": "August 2012",
+        "2018-06-15": "March 2013",
+        "2006-10-26": "August 13, 2012",
+        "2022-12-16": "March 22, 2013",
+        "2016-02-20": "the date of this Agreement",
+        "2023-07-20": "August Questionnaire",
+        "2001-08-30": "2012",
+        "2009-08-22": "MARCH 2013",
+        "1984-08-02": "May 3, 2021",
+        "1985-12-08": "AUGUST 2012",
+        "1995-08-30": "December 17 2020",
+        "1973-11-20": "May 10 2013",
+        "2021-10-27": "the beginning of the first",
+        "1996-09-04": "September 19, 2018",
+        "1971-07-27": "1998",
+        "2007-09-16": "five business days\u2019",
+        "1991-04-18": "30 days",
+        "1979-10-01": "9734",
+        "1976-04-19": "Feb. 17, 2012",
+        "1999-04-12": "July 22, 2011",
+        "1991-10-28": "Nov. 18, 2011",
+        "1985-03-29": "Jan. 9, 2012",
+        "2017-03-11": "2136",
+        "1980-07-18": "Jan. 13, 2012",
+        "2016-11-16": "Apr. 3, 2012",
+        "1975-11-26": "June 12, 2012",
+        "1988-02-20": "1974",
+        "1983-08-17": "1934",
+        "2019-01-30": "December 31, 2012",
+        "1986-10-31": "1a(21",
+        "1978-02-01": "1940",
+        "1981-07-02": "AUGUST",
+        "2001-08-15": "CDX.NA",
+        "1986-03-14": "no more than 30 years",
+        "2009-03-23": "one year",
+        "2024-05-07": "six months",
+        "1993-02-04": "December 13, 2012",
+        "2012-10-22": "the August Questionnaire",
+        "1976-04-03": "U.S.",
+        "1994-10-03": "Dodd"
     },
     "LOCATION": {
-        "New Rita": "Kilmarnock"
-    },
-    "CREDIT_CARD": {
-        "6584801845146275": "4111 1111 1111 1111"
-    },
-    "IBAN_CODE": {
-        "GB78GSWK37672423884969": "PL61109010140000071219812874"
-    },
-    "US_DRIVER_LICENSE": {
-        "781802744": "999000680"
-    },
-    "US_SSN": {
-        "687-35-1170": "602-76-4532"
-    },
-    "POLISH_ID": {
-        "WYA559731": "ABC123456"
-    },
-    "TIME": {
-        "11:40 AM": "9:30 AM"
+        "North Marcberg": "England",
+        "South Melaniechester": "Delaware",
+        "Alfredview": "the United Kingdom - United States",
+        "North Donna": "the United Kingdom",
+        "West Micheleberg": "United States of America",
+        "New Jason": "London",
+        "Matthewsberg": "New York",
+        "East Paigeberg": "NY",
+        "North Renee": "3AB",
+        "Lake James": "Wales",
+        "New Julieport": "New York City",
+        "Victoriaport": "Payee",
+        "Harveybury": "United States",
+        "East Amanda": "the United States Foreign Account Tax Compliance Act",
+        "West Robert": "UK",
+        "Port Jaredborough": "E.U.",
+        "Port Cameronfort": "Luxembourg",
+        "Christinaside": "Chiyoda-ku",
+        "Yumouth": "Tokyo",
+        "New Deborahtown": "Japan",
+        "New Staciemouth": "the United States",
+        "Port Andrew": "the Borough of Manhattan",
+        "South Angel": "3a(67",
+        "Lake Rodneyview": "city",
+        "Cherylhaven": "Canadian",
+        "Davidstad": "Swedish",
+        "South Christineshire": "New Zealand",
+        "East Nicholasfurt": "June 10, 2013",
+        "Samuelhaven": "U.S.PE",
+        "South Patrickmouth": "non-U.S.",
+        "Port Jesseville": "July 26, 2013"
     },
     "PHONE_NUMBER": {
-        "7344131647": "999-888-7777"
+        "517.413.9005": "+44 (0) 207-521-2000",
+        "337-909-8593": "212-667-2357"
     },
     "EMAIL_ADDRESS": {
-        "jamesmichael@example.com": "johndoe@example.com",
-        "blakeerik@example.com": "support@bankname.com"
+        "rcrosby@example.org": "TLPSD@uk.nomura.com",
+        "gbender@example.net": "derivativesmarginrecs-eu@nomura.com",
+        "ronaldstephens@example.net": "OTCCollateral@uk.nomura.com"
     },
-    "UK_NHS": {
-        "2812140441": "987-654-3210"
+    "US_SSN": {},
+    "PERSON": {
+        "Zachary Castaneda": "Payer",
+        "Kyle Montgomery": "Annex",
+        "Lindsay Martinez": "SUCCESSORS",
+        "Robert Perez": "20138",
+        "Stephen Mckee": "xii"
+    },
+    "NRP": {
+        "34166826": "non-US",
+        "30024960": "Dutch",
+        "17195288": "Irish",
+        "87446468": "Italian",
+        "34744872": "Spanish",
+        "42394260": "Japanese",
+        "99682738": "American",
+        "86483924": "European",
+        "23903144": "US",
+        "99639081": "Australian",
+        "42787299": "Hong Kong",
+        "96637649": "Singapore",
+        "63121477": "Norwegian",
+        "11540956": "the date first"
+    },
+    "URL": {
+        "https://santiago.com/": "Mexican"
     }
 }
