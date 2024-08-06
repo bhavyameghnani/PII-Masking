@@ -1,0 +1,40 @@
+{
+    "DATE_TIME": {
+        "1986-10-16": "October 19, 2021"
+    },
+    "PERSON": {
+        "Timothy Koch": "John Doe",
+        "Cristian Santos": "Victoria Cherry"
+    },
+    "LOCATION": {
+        "New Rita": "Kilmarnock"
+    },
+    "CREDIT_CARD": {
+        "6584801845146275": "4111 1111 1111 1111"
+    },
+    "IBAN_CODE": {
+        "GB78GSWK37672423884969": "PL61109010140000071219812874"
+    },
+    "US_DRIVER_LICENSE": {
+        "781802744": "999000680"
+    },
+    "US_SSN": {
+        "687-35-1170": "602-76-4532"
+    },
+    "POLISH_ID": {
+        "WYA559731": "ABC123456"
+    },
+    "TIME": {
+        "11:40 AM": "9:30 AM"
+    },
+    "PHONE_NUMBER": {
+        "7344131647": "999-888-7777"
+    },
+    "EMAIL_ADDRESS": {
+        "jamesmichael@example.com": "johndoe@example.com",
+        "blakeerik@example.com": "support@bankname.com"
+    },
+    "UK_NHS": {
+        "2812140441": "987-654-3210"
+    }
+}

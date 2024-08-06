@@ -1,0 +1,36 @@
+text = '''
+
+Name: John Doe
+
+Contact Information:
+
+Phone Number: 123-456-7890
+Email Address: john.doe@example.com
+Professional Background:
+John Doe is an Innovation Associate working at Nomura, where he specializes in GenAI, AI, and Immersive Tech. In his role, he collaborates with the digital strategy team, corporate functions, and digital transformation use cases to drive innovation and efficiency within the organization.
+
+Current Projects:
+John is currently focused on developing a web application named 'Legal Eye,' a GenAI-powered tool designed to assist Nomura's Legal teams. The tool aims to streamline workflows by extracting details and finding relevant clauses from complex legal agreements. The application utilizes advanced technologies such as AWS Bedrock, the Titan model, LangChain, Faiss, and DynamoDB to enhance efficiency and accuracy.
+
+Technical Expertise:
+John has a strong background in creating Python programs to extract data from legal agreement PDFs. He uses AWS Textract for image-based PDFs and Python PDF parsers for text-based PDFs. Additionally, he integrates GenAI applications with prompts from JSON files using AWS Bedrock and connects AWS with Python using boto3.
+
+Upcoming Initiatives:
+John is preparing to attend the Singapore Fintech Festival 2024, where he will represent Nomura and showcase their advancements in financial technology. He is also working on a video script to explain the functionality and benefits of the Legal Eye tool, aiming to highlight its impact on Nomura's Legal teams.
+
+Technological Preferences:
+John prefers using LangChain with chunking and Retrieval-Augmented Generation (RAG) over BERT for creating embeddings and processing text from legal agreements. He is adept at integrating React components, such as AgGridReact, to display data in tables and enhancing user interactions with features like dropdowns, loaders, and automatic scrolling.
+
+Color Palette and Design:
+For his projects, John adheres to Nomura's color palette, which includes the color #002C56, ensuring consistency and alignment with the company's branding.
+
+Innovative Solutions:
+John is working on extracting specific fields from CSA and GMRA documents, focusing on parameters related to Nomura and counterparties. His goal is to minimize the risk of human error, demonstrate stronger controls over compliance, and ensure adherence to client agreements and financial protections.
+
+Client Interaction:
+John is developing a chatbot integrated with a Flask backend to handle user queries and interact with DynamoDB for data retrieval and processing, further enhancing the user experience and operational efficiency.
+
+Vision:
+Through his innovative work and dedication, John aims to reduce costs, minimize manual effort, and improve controls over compliance, thereby significantly contributing to Nomura's digital transformation journey.
+
+'''

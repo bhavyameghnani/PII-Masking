@@ -1,0 +1,48 @@
+{
+    "original_text": "My name is John Doe, I am from Microsoft. As per our Confidentiality Agreement, I cannot disclose the Bank Account Number: 1234567890 of our client.",
+    "anonymized_text": "My name is <PERSON>, I am from Between help along between. Executive tree other table game early imagine shoulder. Firm hope international voice.. As per our synthesize integrated content, I cannot disclose the Bank Account Number: <PHONE_NUMBER> of our client.",
+    "anonymized_entities": [
+        {
+            "entity_type": "PERSON",
+            "start": 11,
+            "end": 19,
+            "text": "John Doe",
+            "anonymized_text": "Mr. Robert Cooper DDS"
+        },
+        {
+            "entity_type": "PHONE_NUMBER",
+            "start": 123,
+            "end": 133,
+            "text": "1234567890",
+            "anonymized_text": "(757)999-2111"
+        },
+        {
+            "entity_type": "LEGAL_TERM",
+            "start": 53,
+            "end": 78,
+            "text": "Confidentiality Agreement",
+            "anonymized_text": "benchmark killer niches"
+        },
+        {
+            "entity_type": "US_DRIVER_LICENSE",
+            "start": 123,
+            "end": 133,
+            "text": "1234567890",
+            "anonymized_text": "LDS 101"
+        },
+        {
+            "entity_type": "PERSON",
+            "start": 11,
+            "end": 19,
+            "text": "John Doe",
+            "anonymized_text": "Bethany Fields"
+        },
+        {
+            "entity_type": "ORG",
+            "start": 31,
+            "end": 40,
+            "text": "Microsoft",
+            "anonymized_text": "Draw doctor second yourself create. Subject floor develop but television.\nMember of catch reflect because almost. Amount real education whose. Difficult religious think civil remember."
+        }
+    ]
+}
